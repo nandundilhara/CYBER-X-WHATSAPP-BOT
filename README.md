@@ -26,7 +26,7 @@
 
 2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 
-3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
+3. Go app.json and Change "repostory" Url's user name to your user name ( Line 03 )
 
 4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
 
